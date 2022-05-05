@@ -1,0 +1,3 @@
+﻿  CandyGameSource.cpp
+C:\Users\natha\source\repos\Recursion\Project 6\CandyGameHeader.h(73): warning C4715: 'KeepPlaying': not all control paths return a value
+  Project 6.vcxproj -> C:\Users\natha\source\repos\Recursion\x64\Debug\Project 6.exe
